@@ -32,7 +32,7 @@ yarn-debug.log*
 .yardoc
 doc
 .env
-
+.venv
 # Ignore coverage files
 /coverage
 .tool-versions
@@ -40,4 +40,4 @@ doc
 app/assets/builds/
 
 __pycache__/
-poetry.lock
+
